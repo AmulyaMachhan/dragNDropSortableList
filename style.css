@@ -10,7 +10,8 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: url(./gradient-trendy-background_23-2150423332.jpg);
+  background: url(./gradient-trendy-background_23-2150423332.jpg) center no-repeat;
+  background-size: cover;
 }
 .sortable-list {
   width: 425px;
