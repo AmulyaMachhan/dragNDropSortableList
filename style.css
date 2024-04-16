@@ -10,7 +10,7 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #595DB8;
+  background: url(./gradient-trendy-background_23-2150423332.jpg);
 }
 .sortable-list {
   width: 425px;
@@ -19,6 +19,7 @@ body {
   border-radius: 7px;
   padding: 30px 25px 20px;
   box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+  background: none;
 }
 .sortable-list .item {
   list-style: none;
